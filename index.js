@@ -35,14 +35,12 @@ newImage('assets/pillar.png', 350, 100)
 newImage('assets/crate.png', 150, 200)
 newImage('assets/well.png', 500, 425)
 
-
+// for fun
 newImage('assets/pine-tree.png', 650, 340)
 newImage('assets/tree.png', 800, 400)
 newImage('assets/pine-tree.png', 850, 200)
 newImage('assets/tree.png', 600, 250)
-
-
-// for fun
+newImage('assets/cloud1.png', 700, 560)
 newImage('assets/boulder.png', 850, 800)
 newImage('assets/pine-tree.png', 850, 850)
 newImage('assets/rock.png', 860, 850)
